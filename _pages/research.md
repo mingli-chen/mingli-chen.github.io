@@ -15,6 +15,17 @@ You can also find my articles on  <a href="{{site.author.googlescholar}}">my Goo
 {% include base_path %}
 
 ## SELECTED PUBLICATIONS
+* <a href = "https://arxiv.org/abs/1607.00286" target = "_blank"> **Quantile Graphical Models: Prediction and Conditional Independence with Applications to Systemic Risk** </a>
+    * with <a href="https://people.duke.edu/~abn5/belloni-index.html?_gl=1*17po9rl*_gcl_au*MjE4MTA4MjI0LjE3MzkwNjM2MjU.*_ga*MTkxMTA3ODA4NS4xNzM5MDYzNjI1*_ga_1QY6PJLGK7*MTczOTA2MzYyNC4xLjAuMTczOTA2MzYyOC41Ni4wLjA." target="_blank">Alexandre Belloni</a> (Duke) and <a href="http://www.mit.edu/~vchern/" target="_blank">Victor Chernozhukov</a>  (MIT)
+    * **Journal of Econometrics**, accepted
+
+        <details>
+        <summary>Abstract</summary>
+        <p>We propose two types of Quantile Graphical Models: i) Conditional Independence Quantile Graphical Models (CIQGMs) characterize the conditional independence by evaluating the distributional dependence structure at each quantile index, as such, those can be used for validation of the graph structure in the causal graphical models; ii) Prediction Quantile Graphical Models (PQGMs) characterize the statistical dependencies through the graphs of the best linear predictors under asymmetric loss functions. PQGMs make weaker assumptions than CIQGMs as they allow for misspecification. One advantage of these models is that we can apply them to large collections of variables driven by non-Gaussian and non-separable shocks.  Because of QGMs’ ability to handle large collections of variables and focus on specific parts of the distributions, we could apply them to quantify tail interdependence. The resulting tail risk network can be used for measuring systemic risk contributions that help make inroads in understanding international financial contagion and dependence structures of returns under downside market movements.</p>
+
+
+        <p>We develop estimation and inference methods focusing on the high-dimensional case, where the number of nodes in the graph is large as compared to the number of observations. For CIQGMs, these results include valid simultaneous choices of penalty functions, uniform rates of convergence, and confidence regions that are simultaneously valid. We also derive analogous results for PQGMs, which include new results for penalized quantile regressions in high-dimensional settings to handle misspecification, many controls, and a continuum of additional conditioning events. </p>
+        </details>
 
 
 * <a href = "https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-1/High-dimensional-latent-panel-quantile-regression-with-an-application-to/10.1214/22-AOS2223.short" target = "_blank"> **High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing** </a>
@@ -63,19 +74,6 @@ You can also find my articles on  <a href="{{site.author.googlescholar}}">my Goo
 
 
 ## SUBMITTED/UNDER REVISION
-* <a href = "https://arxiv.org/abs/1607.00286" target = "_blank"> **Quantile Graphical Models: Prediction and Conditional Independence with Applications to Systemic Risk** </a>
-    * with <a href="https://people.duke.edu/~abn5/belloni-index.html?_gl=1*17po9rl*_gcl_au*MjE4MTA4MjI0LjE3MzkwNjM2MjU.*_ga*MTkxMTA3ODA4NS4xNzM5MDYzNjI1*_ga_1QY6PJLGK7*MTczOTA2MzYyNC4xLjAuMTczOTA2MzYyOC41Ni4wLjA." target="_blank">Alexandre Belloni</a> (Duke) and <a href="http://www.mit.edu/~vchern/" target="_blank">Victor Chernozhukov</a>  (MIT)
-    * Resubmitted to **Journal of Econometrics**, September 12, 2024
-
-        <details>
-        <summary>Abstract</summary>
-        <p>We propose two types of Quantile Graphical Models: i) Conditional Independence Quantile Graphical Models (CIQGMs) characterize the conditional independence by evaluating the distributional dependence structure at each quantile index, as such, those can be used for validation of the graph structure in the causal graphical models; ii) Prediction Quantile Graphical Models (PQGMs) characterize the statistical dependencies through the graphs of the best linear predictors under asymmetric loss functions. PQGMs make weaker assumptions than CIQGMs as they allow for misspecification. One advantage of these models is that we can apply them to large collections of variables driven by non-Gaussian and non-separable shocks.  Because of QGMs’ ability to handle large collections of variables and focus on specific parts of the distributions, we could apply them to quantify tail interdependence. The resulting tail risk network can be used for measuring systemic risk contributions that help make inroads in understanding international financial contagion and dependence structures of returns under downside market movements.</p>
-
-
-        <p>We develop estimation and inference methods focusing on the high-dimensional case, where the number of nodes in the graph is large as compared to the number of observations. For CIQGMs, these results include valid simultaneous choices of penalty functions, uniform rates of convergence, and confidence regions that are simultaneously valid. We also derive analogous results for PQGMs, which include new results for penalized quantile regressions in high-dimensional settings to handle misspecification, many controls, and a continuum of additional conditioning events. </p>
-        </details>
-
-
 * <a href = "https://arxiv.org/abs/2104.09368" target = "_blank"> **Deep Reinforcement Learning in a Monetary Model** </a>
     * with <a href = "https://www.bankofengland.co.uk/research/researchers/andreas-joseph" target = "_blank"> Andreas Joseph</a> (Bank of England), <a href = "https://www.bankofengland.co.uk/research/researchers/michael-kumhof" target = "_blank"> Michael Kumhof</a> (Bank of England), <a href = "https://scholar.google.com/citations?user=tlhfhLoAAAAJ&hl=en" target = "_blank"> Xinlei Pan </a> (UC Berkeley), <a href = "https://scholar.google.com/citations?user=bRmH-2gAAAAJ&hl=en" target = "_blank">Xuan Zhou</a> (Reserve Bank of  Australia)
 
