@@ -103,6 +103,7 @@ Econometrics, Machine Learning, Time Series Econometrics, Financial Econometrics
 * 2016: Masterclasses delivered by  <a href="http://www.mit.edu/~vchern/" target="_blank">Victor Chernozhukov (MIT)</a>, topics on Machine Learning in Econometrics
 
 ## CONFERENCE PROGRAM ORGANIZATION
+* 2025: Member of the Scientific Program Committee of the 2025 European Winter Meeting of the Econometric Society, Nicosia, Cyprus.
 * 2024: Member of the Scientific Committee of the 2024 annual conference of the International Association of Applied Econometrics (IAAE), Xiamen, China.
 * 2021: Member of the Scientific Program Committee of the Bank of England Virtual Conference on New Methods and Applications for Macroeconomic Policy.
 * 2020: Member of the Scientific Program Committee of the Bank of England Virtual Conference on Modelling with Big Data & Machine Learning: Measuring Economic Instability.
@@ -110,7 +111,7 @@ Econometrics, Machine Learning, Time Series Econometrics, Financial Econometrics
 
 
 ## INVITED SEMINARS
-* 2024-2025 (including scheduled): University of Southampton, Universidad Carlos III de Madrid, Chinese University of Hong Kong, Renmin University of China, Fudan University, Wuhan University, University of International Business and Economics, Hong Kong Monetary Authority, Boston University, Goethe University Frankfurt
+* 2024-2025 (including scheduled): University of Southampton, Universidad Carlos III de Madrid, Chinese University of Hong Kong, Renmin University of China, Fudan University, University of International Business and Economics, Hong Kong Monetary Authority, Boston University, Goethe University Frankfurt, Tsinghua University, Peking University, Shanghai University of Finance and Economics, Hong Kong University of Science and Technology
 * 2023: University of Liverpool, Lancaster University, Stanford University (AFTLab), Jinan University
 * 2021-2022: UCL, Queen Mary University of London
 * 2020: University of Kent, Turing-ONS-FCA Seminar, SUFE, Alibaba, Essex
@@ -126,6 +127,7 @@ Econometrics, Machine Learning, Time Series Econometrics, Financial Econometrics
 * July 2021 (scheduled, cancelled): Invited Lecturer, CIDE (Italian Center for Econometrics) Summer School in Econometrics, “Big Data and Large Network Estimation”, Bertinoro, Italy
 
 ## CONFERENCES
+* 2025 Shanghai Econometrics Workshop: Network and Spatial Econometrics (Keynote Speech)
 * 2025 Econometrics Workshop, University of Oxford (Invited)
 * 2024 Shanghai Workshop on Robustness Meets Causality: Theory and Applications (Invited)
 * 2024 Southeast University Statistics and Big Data Forum (Invited)
