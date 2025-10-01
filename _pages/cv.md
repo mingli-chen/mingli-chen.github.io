@@ -15,6 +15,7 @@ redirect_from:
 
 ## AFFILIATIONS
 * Turing Fellow, the Alan Turing Institute, UK’s National Institute for Data Science and Artificial Intelligence, February 2018 - present
+* Research Associate, CeMMAP, September 2015 – present
 * External Advisor for the new MSc Economics & Data Science at the University of Manchester, March 2023
 * External Fellow, Centre for Panel Data Analysis, University of York, June 2017 – present
 * External Examiner, MRes/MSc Econometrics, London School of Economics, September 2018 – 2024
