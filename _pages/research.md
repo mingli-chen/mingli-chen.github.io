@@ -83,8 +83,8 @@ You can also find my articles on  <a href="{{site.author.googlescholar}}">my Goo
         </details>
 
 
-* <a href = "https://sites.bu.edu/mrysman/files/2025/08/MM_Paper.pdf" target = "_blank" > **An MM algorithm for Fixed Eﬀects in Multinomial Models with an Application to Payment Choice in Grocery Stores** </a>
-    * with <a href = "https://sites.bu.edu/mrysman/" target = "_blank"> Marc Rysman (BU)</a>, <a href = "https://imeeker.com" target = "_blank"> Ian Meeker </a> (Charles River Associates), Shuang Wang (BU), 
+* <a href = "https://sites.bu.edu/mrysman/files/2025/08/MM_Paper.pdf" target = "_blank" > **An MM Algorithm for Fixed Effects Multinomial Logit Models** </a>
+    * with <a href = "https://sites.bu.edu/mrysman/" target = "_blank"> Marc Rysman (BU)</a>, <a href = "https://imeeker.com" target = "_blank"> Ian Meeker </a> (Charles River Associates), Shuang Wang (Charles River Associates) 
     * R&R, **Quantitative Economics**
        
         <details>
