@@ -112,8 +112,8 @@ Econometrics, Machine Learning, Time Series Econometrics, Financial Econometrics
 
 
 ## INVITED SEMINARS
-* 2025-2026 (scheduled): London School of Economics, University of Glasgow
-* 2024-2025 (including scheduled): University of Southampton, Universidad Carlos III de Madrid, Chinese University of Hong Kong, Renmin University of China, Fudan University, University of International Business and Economics, Hong Kong Monetary Authority, Boston University, Goethe University Frankfurt, Tsinghua University, Peking University, Shanghai University of Finance and Economics, Hong Kong University of Science and Technology
+* 2026 (scheduled): University of Hong Kong, Chinese University of Hong Kong (Shenzhen), London School of Economics, University of Glasgow
+* 2024-2025: University of Southampton, Universidad Carlos III de Madrid, Chinese University of Hong Kong, Renmin University of China, Fudan University, University of International Business and Economics, Hong Kong Monetary Authority, Boston University, Goethe University Frankfurt, Tsinghua University, Peking University, Shanghai University of Finance and Economics, Hong Kong University of Science and Technology (Social Science), University of Hong Kong, Chinese University of Hong Kong (Shenzhen)
 * 2023: University of Liverpool, Lancaster University, Stanford University (AFTLab), Jinan University
 * 2021-2022: UCL, Queen Mary University of London
 * 2020: University of Kent, Turing-ONS-FCA Seminar, SUFE, Alibaba, Essex

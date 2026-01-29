@@ -83,8 +83,8 @@ You can also find my articles on  <a href="{{site.author.googlescholar}}">my Goo
         </details>
 
 
-* <a href = "https://sites.bu.edu/mrysman/files/2022/08/MM_IPP_Payments.pdf" target = "_blank" > **An MM algorithm for Fixed Eﬀects in Multinomial Models with an Application to Payment Choice in Grocery Stores** </a>
-    * with <a href = "https://sites.bu.edu/mrysman/" target = "_blank"> Marc Rysman (BU)</a>, Shuang Wang (BU), <a href = "https://www.federalreserve.gov/econres/krzysztof-p-wozniak.htm" target = "_blank"> Krzysztof Wozniak </a> (Federal Reserve Board)
+* <a href = "https://sites.bu.edu/mrysman/files/2025/08/MM_Paper.pdf" target = "_blank" > **An MM algorithm for Fixed Eﬀects in Multinomial Models with an Application to Payment Choice in Grocery Stores** </a>
+    * with <a href = "https://sites.bu.edu/mrysman/" target = "_blank"> Marc Rysman (BU)</a>, <a href = "https://imeeker.com" target = "_blank"> Ian Meeker </a> (Charles River Associates), Shuang Wang (BU), 
     * R&R, **Quantitative Economics**
        
         <details>
