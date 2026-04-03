@@ -75,7 +75,7 @@ You can also find my articles on  <a href="{{site.author.googlescholar}}">my Goo
 
 ## SUBMITTED/UNDER REVISION
 * <a href = "https://arxiv.org/abs/2104.09368" target = "_blank"> **Robust Priors in Nonlinear Panel Models with Individual and Time Effects** </a>
-    * with <a href = "https://iesr.jnu.edu.cn/2019/0821/c17702a404538/page.psp" target = "_blank"> Zizhong Yan </a> (IESR, Jinan University), <a href = "https://econ.sufe.edu.cn/zzy_en/main.htm" target = "_blank"> Zhengyu Zhang </a> (SUFE), <a href = "https://scholar.google.com/citations?user=NchkKpMAAAAJ&hl=zh-CN" target = "_blank"> Jingrong Li </a> (SCAU), <a href = "https://sites.bu.edu/ivanf/" target = "_blank">Iván Fernández-Val</a> (BU)
+    * with <a href = "https://iesr.jnu.edu.cn/2019/0821/c17702a404538/page.psp" target = "_blank"> Zizhong Yan </a> (IESR, Jinan University), <a href = "https://econ.sufe.edu.cn/zzy_en/main.htm" target = "_blank"> Zhengyu Zhang </a> (SUFE), <a href = "https://sites.google.com/view/jingrongli/home?authuser=0" target = "_blank"> Jingrong Li </a> (SCAU), <a href = "https://sites.bu.edu/ivanf/" target = "_blank">Iván Fernández-Val</a> (BU)
 
         <details>
         <summary>Abstract</summary>
