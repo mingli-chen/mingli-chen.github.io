@@ -74,6 +74,15 @@ You can also find my articles on  <a href="{{site.author.googlescholar}}">my Goo
 
 
 ## SUBMITTED/UNDER REVISION
+* <a href = "https://arxiv.org/abs/2104.09368" target = "_blank"> **Robust Priors in Nonlinear Panel Models with Individual and Time Effects** </a>
+    * with <a href = "https://iesr.jnu.edu.cn/2019/0821/c17702a404538/page.psp" target = "_blank"> Zizhong Yan </a> (IESR, Jinan University), <a href = "https://econ.sufe.edu.cn/zzy_en/main.htm" target = "_blank"> Zhengyu Zhang </a> (SUFE), <a href = "https://scholar.google.com/citations?user=NchkKpMAAAAJ&hl=zh-CN" target = "_blank"> Jingrong Li </a> (SCAU), <a href = "https://sites.bu.edu/ivanf/" target = "_blank">Iván Fernández-Val</a> (BU)
+
+        <details>
+        <summary>Abstract</summary>
+        We develop likelihood-based bias reduction for nonlinear panel models with additive individual and time effects. In two-way panels, integrated-likelihood corrections are attractive but challenging because the required integration is high dimensional and standard Laplace approximations may fail when the parameter dimension grows with the sample size. We propose a target-centered full-exponential Laplace--cumulant expansion that exploits the sparse higher-order derivative structure implied by additive effects, delivering a tractable approximation with a negligible remainder under large-$N,T$ asymptotics. The expansion motivates robust priors that yield bias reduction for both common parameters and fixed effects. We provide implementations for binary, ordered, and multinomial response models with two-way effects. For average partial effects, we show that the remaining first-order bias has a simple variance form and can be removed by a closed-form adjustment. Monte Carlo experiments and an empirical illustration show substantial bias reduction with accurate inference.
+        </details>
+
+
 * <a href = "https://arxiv.org/abs/2104.09368" target = "_blank"> **Deep Reinforcement Learning in a Monetary Model** </a>
     * with <a href = "https://www.bankofengland.co.uk/research/researchers/andreas-joseph" target = "_blank"> Andreas Joseph</a> (Bank of England), <a href = "https://www.bankofengland.co.uk/research/researchers/michael-kumhof" target = "_blank"> Michael Kumhof</a> (Bank of England), <a href = "https://scholar.google.com/citations?user=tlhfhLoAAAAJ&hl=en" target = "_blank"> Xinlei Pan </a> (UC Berkeley), <a href = "https://scholar.google.com/citations?user=bRmH-2gAAAAJ&hl=en" target = "_blank">Xuan Zhou</a> (Reserve Bank of  Australia)
 
